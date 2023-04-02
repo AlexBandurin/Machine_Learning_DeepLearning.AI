@@ -7,7 +7,10 @@ Below are links to the notebooks in this repository along with the topics covere
 
 - **Gradient descent** 
   Using gradient descent to minimize a cost function. 
-  [Linear Regression - Course 1, Week 2](https://(https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C1_W2_Linear_Regression.ipynb)
+  [Gradient Descent - Course 1, Week 1](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
+ 
+- **Linear Regression**    
+  [Linear Regression - Course 1, Week 2](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C1_W2_Linear_Regression.ipynb)
   
   
 
