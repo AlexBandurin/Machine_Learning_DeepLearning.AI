@@ -11,7 +11,7 @@ This specialization contains 3 courses:
 
 Below are links to the some of the notebooks in this repository along with the topics covered
 
-- **Gradient descent** 
+- **Gradient descent**<br> 
   [Gradient Descent - Course 1](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
  
 - **Linear Regression**    
