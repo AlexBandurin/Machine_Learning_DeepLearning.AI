@@ -53,7 +53,7 @@ and each pixel is represented by a floating-point number that indicates its gray
 outputs a vector of length 10, which contains probability values for each digit. The assigned label for each given image corresponds to 
 the digit with the largest probability. <br>
 
-<font size=”5”> Results: 
+<font size=”8”> Results: 
 </font><br>
 64 randomly-selected digits from the training set:
 <p align="center">
