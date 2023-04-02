@@ -62,7 +62,7 @@ We tested the model on 5000 images, and here are the results:
 <p align="center">
 <img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Results.jpeg"  width="60%" height="60%">
 </p> 
-The accuracy was fairly high, with only 15 miscrassified images. These are shown below: 
+The accuracy was fairly high, with only 15 miscrassified images. A few of these are shown below: 
 <p align="center">
 <img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Errors.png"  width="60%" height="60%">
 </p> 
