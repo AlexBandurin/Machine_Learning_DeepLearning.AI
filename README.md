@@ -36,7 +36,7 @@ Below are links to the some of the notebooks in this repository along with the t
 - **Neural Networks** (for handwritten digit recognition. Multiclass Classification.)<br>
   [Neural_Networks.ipynb - Course 2](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Neural_Networks.ipynb)
   
-<font size=”3”> Digit Recognition Project overview: </font>
+<font size=”5”> Digit Recognition Project overview: </font><br>
 Here, I trained a neural network to recognize handwritten digits 0-9 using **Tensorflow** and **Keras**.
 The model features 2 hidden layers with a ReLU activation functions and an output layer with a Softmax function 
 to which a linear activation function is applied. Thus, each output is categorized into the appropriate "digit" category. 
@@ -44,14 +44,14 @@ Below is a diagram:
 <p align="center">
 <img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_model.jpeg"  width="60%" height="60%">
 </p> 
-<font size=”3”> Methodology: </font>
+<font size=”5”> Methodology: </font><br>
 The model is trained on 5000 training images of handwritten digits in black-and-white such that each image consists of 20x20 pixels, 
 and each pixel is represented by a floating-point number that indicates its grayscale intensity. Each image is recorded in a vector 
 (of length 400), and each vector becomes a row in the training matrix (5000 x 400). The model was trained in 100 epochs. <br> The model 
 outputs a vector of length 10, which contains probability values for each digit. The assigned label for each given image corresponds to 
 the digit with the largest probability.
 
-<font size=”3”> Results: </font>
+<font size=”5”> Results: </font><br>
 64 randomly-selected digits from the training set:
 <p align="center">
 <img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_training.jpeg"  width="60%" height="60%">
