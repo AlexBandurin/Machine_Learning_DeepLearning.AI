@@ -6,7 +6,7 @@ I got to explore the fundamental concepts in ML.
 Below are links to the notebooks in this repository along with the topics covered/assignment overview.
 
 - **Gradient descent** 
-  Using gradient descent to minimize a cost function. 
+  Using gradient descent to minimize a cost function.<br> 
   [Gradient Descent - Course 1, Week 1](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
  
 - **Linear Regression**    
