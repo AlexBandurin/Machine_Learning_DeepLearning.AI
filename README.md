@@ -33,7 +33,7 @@ Below are links to the some of the notebooks in this repository along with the t
   [Anomaly Detection - Course 3](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/C3_W1_KMeans_Assignment.ipynb)
   
 
-- **Neural Networks** (for handwritten digit recognition. Multiclass Classification.)
+- **Neural Networks** (for handwritten digit recognition. Multiclass Classification.)<br>
   [Neural_Networks.ipynb - Course 2](https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Neural_Networks.ipynb)
   
 <font size=”3”> Digit Recognition Project overview: </font>
@@ -42,7 +42,7 @@ The model features 2 hidden layers with a ReLU activation functions and an outpu
 to which a linear activation function is applied. Thus, each output is categorized into the appropriate "digit" category. 
 Below is a diagram:
 <p align="center">
-<img src="(https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_model.jpeg)"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_model.jpeg"  width="60%" height="60%">
 </p> 
 <font size=”3”> Methodology: </font>
 The model is trained on 5000 training images of handwritten digits in black-and-white such that each image consists of 20x20 pixels, 
@@ -54,15 +54,15 @@ the digit with the largest probability.
 <font size=”3”> Results: </font>
 64 randomly-selected digits from the training set:
 <p align="center">
-<img src="(https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_training.jpeg)"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_training.jpeg"  width="60%" height="60%">
 </p> 
 We tested the model on 5000 images, and here are the results:
 <p align="center">
-<img src="(https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Results.jpeg)"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Results.jpeg"  width="60%" height="60%">
 </p> 
 The accuracy was fairly high, with only 15 miscrassified images. These are shown below: 
 <p align="center">
-<img src="(https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Errors.png)"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/Machine_Learning_DeepLearning.AI/blob/master/Digit_Recognition_Errors.png"  width="60%" height="60%">
 </p> 
 
 
